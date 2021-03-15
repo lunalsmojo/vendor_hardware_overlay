@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item type="dimen" name="config_displayWhiteBalanceHighLightAmbientColorTemperature">6700.0</item>
-    <item type="dimen" name="config_displayWhiteBalanceLowLightAmbientColorTemperature">6300.0</item>
-    <dimen name="rounded_corner_radius">157.0px</dimen>
-    <dimen name="rounded_corner_radius_adjustment">25.0px</dimen>
-    <dimen name="status_bar_height_portrait">28.0dip</dimen>
-</resources>
